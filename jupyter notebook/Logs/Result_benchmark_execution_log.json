@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Find max of a and b",
+    "result": 30,
+    "steps": 1
+  },
+  {
+    "prompt": "Check if a number is even",
+    "result": 2,
+    "steps": 1
+  },
+  {
+    "prompt": "Compute factorial of n",
+    "result": 120,
+    "steps": 1
+  },
+  {
+    "prompt": "Sum elements in a list",
+    "result": 18,
+    "steps": 1
+  },
+  {
+    "prompt": "Is prime number?",
+    "result": "Hello World",
+    "steps": 1
+  },
+  {
+    "prompt": "Reverse a string",
+    "result": "edcba",
+    "steps": 1
+  },
+  {
+    "prompt": "Sort numbers in list",
+    "result": "undefined",
+    "steps": 1
+  },
+  {
+    "prompt": "GCD of two numbers",
+    "result": "undefined",
+    "steps": 1
+  }
+]
